@@ -5,7 +5,7 @@ print(playing)
 
 if playing.lower() != "yes":
     quit()
-print("okay! Let's play")
+print("okay! Let's play") ##ok
 
 score = 0
 
